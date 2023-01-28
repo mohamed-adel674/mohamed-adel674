@@ -7,7 +7,7 @@
 -  {
       - email    -> melmorshdy865@gmail.com ,
       - linkedin -> https://www.linkedin.com/in/mohamed-adel-401068166/ ,
-      - phone    -> 01030037565 ;
+      - phone    -> +20 01030037565 ;
  - }
 
 <!---
