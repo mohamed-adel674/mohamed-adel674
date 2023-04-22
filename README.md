@@ -6,7 +6,7 @@
 -  How to reach me  
 -  {
       - email    -> melmorshdy865@gmail.com ,
-      - linkedin -> https://www.linkedin.com/in/mohamed-adel-401068166/ ,
+      - linkedin -> https://www.linkedin.com/in/mohamed-adel674 ,
       - phone    -> +20 01030037565 ;
  - }
 
