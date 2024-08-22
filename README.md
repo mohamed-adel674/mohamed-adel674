@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @mohamed-adel
 - 👀 I’m interested in back end developer
-- 🌱 I’m currently working as a freelancer php developer 
-- 🌱 I’m currently learning nodejs 
 - 💞️ I am looking for a job as junior php developer.
 -  How to reach me  
 -  {
-      - email    -> melmorshdy865@gmail.com ,
+      - email    -> madelelmorshdy@gmail.com ,
       - linkedin -> https://www.linkedin.com/in/mohamed-adel674 ,
       - phone    -> +20 01030037565 ;
  - }
