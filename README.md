@@ -5,7 +5,7 @@
 -  {
       - email    -> madelelmorshdy@gmail.com ,
       - linkedin -> https://www.linkedin.com/in/mohamed-adel674 ,
-      - phone    -> +20 01030037565 ;
+      - phone    -> +20 01558824126 ;
  - }
 
 <!---
